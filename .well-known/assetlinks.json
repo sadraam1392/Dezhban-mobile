@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "www.dezhman.app",
+        "sha256_cert_fingerprints": ["8C:E9:37:C1:82:67:E4:12:B6:23:CF:AD:E5:8E:85:2E:9D:F2:D9:73:EE:04:71:02:38:E1:51:79:8C:AB:78:3E"]
+      }
+    }]
